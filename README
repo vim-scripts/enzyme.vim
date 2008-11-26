@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2459
+
+After getting sick of unreadable color schemes because of OS X's Terminal.app color rendition I decided to make my own scheme. The focus is on providing readable combinations of colors.
+
+This may also look okay in other terminals, but I haven't really tested it there so far.
+
+Currently it does nothing special for Gvim.
+
+If you would like to leave comments or make suggestions for this color scheme, please visit my blog: http://kamilkisiel.blogspot.com/2008/11/enzymevim-terminalapp-friendly-color.html
